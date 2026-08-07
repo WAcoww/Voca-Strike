@@ -1,0 +1,17 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "vocab-strike",
+  "description": "三角洲单词突击",
+  "appid": "wx324c8572a6c87fb0",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "game",
+  "game": {
+    "deviceOrientation": "portrait"
+  }
+}
