@@ -1,2 +1,2 @@
-# Voca-Strick
+# Voca-Strike
 A little DS generated vocabulary game
